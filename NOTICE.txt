@@ -1,0 +1,7 @@
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This software is derived from the zipdiff project developped by
+Sean C. Sullivan and James Stewart. The original software is
+available from http://zipdiff.sourceforge.net/ and is under the
+terms of the Apache License, version 2.0.
